@@ -1,21 +1,88 @@
 <h1 align="center">Hi 👋, I'm Riishabh Jain</h1>
-<h3 align="center">Building intelligent systems grounded in strong ML/DL theory and real-world implementation</h3>
+<h3 align="center">AI Engineer focused on building real-world intelligent systems</h3>
 
-- 🔭 I’m currently working on **Computer Vision Systems for Real-World Applications — Object Detection & Activity Recognition**
-
-- 🌱 I’m currently learning **Transformers (ViT), Advanced CNN Architectures, Model Optimization Techniques (Quantization, Pruning)**
-
-- 👯 I’m looking to collaborate on **Advanced AI Projects (Computer Vision, Deep Learning Architectures, Real-time ML Systems)**
-
-- 💬 Ask me about **Machine Learning fundamentals, Deep Learning architectures, Computer Vision, and model building from scratch**
-
-- 📫 How to reach me **jriishi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/riishabhjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riishabhjain" height="30" width="40" /></a>
-<a href="https://kaggle.com/jriishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jriishi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Machine+Learning+%7C+Deep+Learning;Computer+Vision+Enthusiast;From+Math+to+Real+Systems;Always+Building" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+- 🧠 Strong foundation in **Machine Learning & Deep Learning (theory + math)**
+- 👁️ Focused on **Computer Vision** — where I build systems that *see and understand*
+- ⚙️ I prefer **building models from scratch**, not just using black-box APIs
+- 🧩 I turn ideas into **working systems**, not just notebooks
+
+---
+
+## 🔭 Current Work
+- **Computer Vision Systems**  
+  Object Detection • Activity Recognition • Real-time AI
+
+---
+
+## 🌱 Currently Learning
+- Vision Transformers (ViT)
+- Advanced CNN Architectures
+- Model Optimization (Quantization, Pruning, Efficiency)
+
+---
+
+## 🤝 Open to Collaborate On
+- AI / ML Projects with real-world impact  
+- Computer Vision & Deep Learning Systems  
+- High-performance or real-time ML applications  
+
+---
+
+## 💬 Ask Me About
+- Machine Learning fundamentals  
+- Deep Learning architectures (CNNs, Transformers)  
+- Computer Vision pipelines  
+- Building models from scratch  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,docker,aws" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JRIISHI&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JRIISHI&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/riishabhjain">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://kaggle.com/jriishi">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" height="40"/>
+  </a>
+</p>
+
+---
+
+## 📫 Contact
+📧 **jriishi@gmail.com**
+
+---
+
+## ⚡ Philosophy
+> I don’t just train models. I understand them, break them, and rebuild them better.
+
+---
