@@ -1,49 +1,39 @@
-<h1 align="center">Hi 👋, I'm Riishabh Jain</h1>
-<h3 align="center">AI Engineer focused on building real-world intelligent systems</h3>
+<h1 align="center">Riishabh Jain</h1>
+<p align="center">
+  <i>Artificial Intelligence • Machine Learning • Computer Vision</i>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Machine+Learning+%7C+Deep+Learning;Computer+Vision+Enthusiast;From+Math+to+Real+Systems;Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Building+Intelligent+Systems;Grounded+in+Theory+and+Math;Focused+on+Computer+Vision" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🧠 Strong foundation in **Machine Learning & Deep Learning (theory + math)**
-- 👁️ Focused on **Computer Vision** — where I build systems that *see and understand*
-- ⚙️ I prefer **building models from scratch**, not just using black-box APIs
-- 🧩 I turn ideas into **working systems**, not just notebooks
+## About
+
+I work at the intersection of **Machine Learning, Deep Learning, and Computer Vision**, with a strong grounding in the mathematical and theoretical foundations behind these systems.
+
+My focus is not just on using models, but understanding their behavior, optimizing them, and translating ideas into **functional, real-world systems**.
 
 ---
 
-## 🔭 Current Work
-- **Computer Vision Systems**  
-  Object Detection • Activity Recognition • Real-time AI
+## Current Focus
+
+- Computer Vision systems for **object detection and activity recognition**
+- Designing models with attention to **performance and scalability**
+- Bridging theory with **practical deployment**
 
 ---
 
-## 🌱 Currently Learning
-- Vision Transformers (ViT)
-- Advanced CNN Architectures
-- Model Optimization (Quantization, Pruning, Efficiency)
+## Learning & Exploration
+
+- Vision Transformers (ViT)  
+- Advanced CNN architectures  
+- Model optimization (quantization, pruning, efficiency)
 
 ---
 
-## 🤝 Open to Collaborate On
-- AI / ML Projects with real-world impact  
-- Computer Vision & Deep Learning Systems  
-- High-performance or real-time ML applications  
-
----
-
-## 💬 Ask Me About
-- Machine Learning fundamentals  
-- Deep Learning architectures (CNNs, Transformers)  
-- Computer Vision pipelines  
-- Building models from scratch  
-
----
-
-## 🛠️ Tech Stack
+## Technical Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,docker,aws" />
@@ -55,34 +45,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JRIISHI&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JRIISHI&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/riishabhjain">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://kaggle.com/jriishi">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" height="40"/>
-  </a>
+  <a href="https://linkedin.com/in/riishabhjain">LinkedIn</a> •
+  <a href="https://kaggle.com/jriishi">Kaggle</a> •
+  <a href="mailto:jriishi@gmail.com">Email</a>
 </p>
 
 ---
 
-## 📫 Contact
-📧 **jriishi@gmail.com**
+## Note
 
----
-
-## ⚡ Philosophy
-> I don’t just train models. I understand them, break them, and rebuild them better.
-
----
+> I focus on building systems that are not just functional, but **understood, optimized, and reliable**.
